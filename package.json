@@ -4,7 +4,7 @@
     "displayName": "Yandex Mobile Ads Unity Plugin",
     "description": "This plugin allows Unity developers to easily integrate Yandex Mobile Ads on Android and iOS apps",
     "dependencies": {
-        "com.yandex.mobileads-lite": "https://github.com/stefjen07/yandex-ads-unity-plugin.git?path=/mobileads-unity-plugin/yandex-mobileads-lite-7.12.0.unitypackage"
+        "com.yandex.mobileads-lite": "https://github.com/stefjen07/yandex-ads-unity-plugin.git?path=/mobileads-unity-plugin"
     },
     "unity": "2019.4",
     "unityRelease": "40f1"
